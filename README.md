@@ -8,6 +8,8 @@ no jurisdiction logic, no network. If you ingest invoices from OCR or
 suppliers into a database, this is for you; if you need tax compliance, it
 is explicitly not that tool.
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 OCR and supplier portals produce invoices whose numbers don't add up: a line
